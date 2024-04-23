@@ -38,7 +38,6 @@ Available on iOS, New Again is accessible to anyone with a desire to improve/lea
 * User can add daily tasks. ✅
 * User can go through tasks for each individual day.✅
 * There is a live calendar that varies colors (green to red) that indicates how well user has done that day. ✅
-* User can delete the task
 * User can view their analytics in full on their profile (✅partially)
 * User has a profile icon ✅
 * Unique icons for each category 
@@ -107,7 +106,8 @@ Available on iOS, New Again is accessible to anyone with a desire to improve/lea
 
 
   4/22/24: Update
-![final update video](https://imgur.com/a/7EODQHc)
+  
+![update](https://i.imgur.com/c7NoHOB.mp4)
 
   
 ### [BONUS] Digital Wireframes & Mockups
