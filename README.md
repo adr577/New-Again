@@ -40,7 +40,6 @@ Available on iOS, New Again is accessible to anyone with a desire to improve/lea
 * There is a live calendar that varies colors (green to red) that indicates how well user has done that day. ✅
 * User can view their analytics in full on their profile (✅partially)
 * User has a profile icon ✅
-* Unique icons for each category 
 
 **Optional Nice-to-have Stories**
 
