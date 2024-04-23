@@ -108,7 +108,6 @@ Available on iOS, New Again is accessible to anyone with a desire to improve/lea
   4/22/24: Update
   
 ![update](https://i.imgur.com/c7NoHOB.mp4)
-
   
 ### [BONUS] Digital Wireframes & Mockups
 
