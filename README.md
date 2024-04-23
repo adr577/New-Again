@@ -106,8 +106,7 @@ Available on iOS, New Again is accessible to anyone with a desire to improve/lea
 
 
   4/22/24: Update
-  
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/7EODQHc"  ><a href="//imgur.com/a/7EODQHc">update Final project</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  ![update](https://imgur.com/a/7EODQHc.gif)
 
 ### [BONUS] Digital Wireframes & Mockups
 
