@@ -108,6 +108,14 @@ Available on iOS, New Again is accessible to anyone with a desire to improve/lea
 
   https://imgur.com/gallery/7EODQHc
 
+
+  FINAL: 
+
+  https://imgur.com/gallery/7EODQHc
+
+  -Made sure I could fit plenty of tasks.
+  -Calendar is not buggy.
+  -Profile is set up.
   
 ### [BONUS] Digital Wireframes & Mockups
 
